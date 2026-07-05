@@ -220,5 +220,7 @@ I wanted a way to control my computer using simple hand gestures, so I built thi
 
 If you find this project useful, feel free to use it, modify it, or build on top of it.
 
+Or if someone has seen this on my portfolio give it a try using the tutorial at the top of the README.
+
 
 
